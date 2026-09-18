@@ -2,7 +2,7 @@
 
 时间变化效果、窗帘与微尘动态、真实时钟。支持 Wallpaper Engine 和 Lively。
 
-# 纯 GPT6 ASTRA 许愿
+## 纯 GPT6 ASTRA 许愿
 
 ![壁纸预览](preview.jpg)
 
