@@ -2,6 +2,8 @@
 
 时间变化效果、窗帘与微尘动态、真实时钟。支持 Wallpaper Engine 和 Lively。
 
+# 纯 GPT6 ASTRA 许愿
+
 ![壁纸预览](preview.jpg)
 
 鼠标靠近右下角显示入口，点击展开控制面板。支持手动时间与系统时间，内嵌面板支持中文 / English。
